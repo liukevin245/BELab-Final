@@ -16,4 +16,4 @@ You also have to open `final.ipynb` and execute the first cell to convert `train
 ## Data Preprocess & Training
 Please follow the instructions in `final.ipynb`. Note that there are 2 models (XGBoost & LSTM) available, just choose the one you want.
 ## Inference
-Execute the *Inference* cell correspond to the model you trained.
+Execute the *Inference* cell that corresponds to the model you trained.
